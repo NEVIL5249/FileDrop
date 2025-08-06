@@ -134,22 +134,7 @@ Here are some screenshots showcasing the features and UI of **FileDrop**:
 
 ---
 
-## 📦 Deployment
 
-You can deploy FileDrop on platforms like:
-
-- [Vercel](https://vercel.com)
-- [Netlify](https://netlify.com)
-
-> Ensure that your `.env` variables are also configured in the deployment dashboard.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🙌 Acknowledgements
 
